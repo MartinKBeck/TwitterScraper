@@ -1,4 +1,4 @@
-# How to Scrape Tweets on Twitter with snscrape
+# How to Scrape Tweets with snscrape
 This folder contains the jupyter notebooks for my snscrape scraping tutorial published [here](https://towardsdatascience.com/how-to-scrape-tweets-from-twitter-59287e20f0f1 "written article").
 
 This folder contains two subfolders based on two different Python packages I used to scrape tweets. Each sub-folder contains an article notebook that follows the code snippets in my article and a companion notebook that provides more code examples and easy to use functions. This folder also contains a third item titled Tweepy_and_GetOldTweets3.ipynb that utilizes both Python packages to allow one to use GetOldTweets3 and have access to user information. 
