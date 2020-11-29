@@ -12,7 +12,7 @@ import pandas as pd
 # Query by username
 # Setting variables to be used in format string command below
 tweet_count = 100
-username = 'jack'
+username = "jack"
 
 # Using OS library to call CLI commands in Python
 os.system("snscrape --jsonl --max-results {} twitter-search 'from:{}'> user-tweets.json".format(tweet_count, username))
@@ -29,11 +29,13 @@ tweets_df1.to_csv('user-tweets.csv', sep=',', index=False)
 
 # Query by text search
 # Setting variables to be used in format string command below
-tweet_count = 100
-text_query = 'coronavirus'
+tweet_count = 500
+text_query = "its the elephant"
+since_date = "2020-06-01"
+until_date = "2020-07-31"
 
 # Using OS library to call CLI commands in Python
-os.system("snscrape --jsonl --max-results {} twitter-search '{}'> text-query-tweets.json".format(tweet_count, text_query))
+os.system('snscrape --jsonl --max-results {} --since {} twitter-search "{} until:{}"> text-query-tweets.json'.format(tweet_count, since_date, text_query, until_date))
 
 # Reads the json generated from the CLI command above and creates a pandas dataframe
 tweets_df2 = pd.read_json('text-query-tweets.json', lines=True)
