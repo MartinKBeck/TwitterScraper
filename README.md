@@ -1,5 +1,5 @@
 # Scraping Tweets from Twitter
-This repository contains various materials that follow my tweet scraping articles.
+This repository contains various materials that follow my series of tweet scraping articles.
 
 <b>All materials pertaining to GetOldTweets3 are rendered obsolete due to changes in Twitter search APIs. Materials are left for archival reasons.</b>
 
