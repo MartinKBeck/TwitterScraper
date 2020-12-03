@@ -14,7 +14,7 @@ This article covers:
 * Pulling user information from tweets with Tweepy and GetOldTweets3
 * Scraping using filters with Tweepy and GetOldTweets3
 
-The <b>snscrape</b> folder contains materials from my snscrape scraping tutorial article available [here](https://medium.com/better-programming/how-to-scrape-tweets-with-snscrape-90124ed006af)
+The <b>snscrape</b> folder contains materials from my snscrape scraping tutorial article available [here](https://medium.com/better-programming/how-to-scrape-tweets-with-snscrape-90124ed006af).  
 This article covers:
 * Setting up snscrape
 * Different ways to use snscrape
