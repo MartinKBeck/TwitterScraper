@@ -1,3 +1,6 @@
+# Script Author: Martin Beck
+# Medium Article Follow-Along: https://medium.com/better-programming/how-to-scrape-tweets-with-snscrape-90124ed006af
+
 # Pip install the command below if you don't have the development version of snscrape 
 # !pip install git+https://github.com/JustAnotherArchivist/snscrape.git
 
