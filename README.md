@@ -2,6 +2,7 @@
 This repository contains various materials that follow my series of tweet scraping articles.
 
 <b>All materials pertaining to GetOldTweets3 are rendered obsolete due to changes in Twitter search APIs. Materials are left for archival reasons.</b>
+<b>If you raise any issues on my code, please refer to the specific sub-directory and Python libraries used so I can know where to help.</b>
 
 The <b>BasicScraper</b> folder contains materials from my beginner scraping tutorial article available [here](https://towardsdatascience.com/how-to-scrape-tweets-from-twitter-59287e20f0f1 "written article").  
 This article covers:
