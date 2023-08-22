@@ -1,4 +1,4 @@
-# NOTE, the following information is heavily outdated, GetOldTweets3 is heavily outdated, and the Tweepy code utilizes Twitter API V1, V2 is currently being used
+# NOTE, the following information is heavily outdated, GetOldTweets3 is no longer usable, and the Tweepy code utilizes Twitter API V1, V2 is currently used.
 
 
 
